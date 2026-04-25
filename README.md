@@ -127,4 +127,18 @@ Even advanced models struggle due to:
 
 ---
 
-## 📁 Project Structure
+## 🚀 Future Improvements
+- Better sentiment labeling strategy
+- Handle class imbalance more effectively
+- Use domain-specific pretrained models
+- Deploy as a web app (Streamlit)
+
+---
+
+## 💡 Conclusion
+BERT improves overall performance but fails to significantly improve neutral sentiment classification. This highlights that **data quality and labeling strategy are more critical than model complexity** in certain NLP tasks.
+
+---
+
+## 👤 Author
+**Kayman Srinivasan**
